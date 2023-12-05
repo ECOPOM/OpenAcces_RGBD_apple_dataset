@@ -1,0 +1,2194 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 1418435278,
+            "classId": 11855358,
+            "description": "7",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.808Z",
+            "updatedAt": "2023-09-21T14:48:10.808Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1241,
+                        13
+                    ],
+                    [
+                        1317,
+                        90
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434953,
+            "classId": 11855358,
+            "description": "8",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1258,
+                        147
+                    ],
+                    [
+                        1345,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434964,
+            "classId": 11855358,
+            "description": "9",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1238,
+                        412
+                    ],
+                    [
+                        1323,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434965,
+            "classId": 11855358,
+            "description": "10",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1288,
+                        478
+                    ],
+                    [
+                        1369,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418435295,
+            "classId": 11855358,
+            "description": "11",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.808Z",
+            "updatedAt": "2023-09-21T14:48:10.808Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        52
+                    ],
+                    [
+                        1019,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434966,
+            "classId": 11855358,
+            "description": "12",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1122,
+                        401
+                    ],
+                    [
+                        1205,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434973,
+            "classId": 11855358,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1048,
+                        802
+                    ],
+                    [
+                        1121,
+                        872
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434961,
+            "classId": 11855358,
+            "description": "14",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        232
+                    ],
+                    [
+                        790,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434967,
+            "classId": 11855358,
+            "description": "15",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        625,
+                        318
+                    ],
+                    [
+                        713,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434968,
+            "classId": 11855358,
+            "description": "16",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        699,
+                        415
+                    ],
+                    [
+                        776,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434962,
+            "classId": 11855358,
+            "description": "17",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        762,
+                        705
+                    ],
+                    [
+                        841,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418435285,
+            "classId": 11855358,
+            "description": "18",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.808Z",
+            "updatedAt": "2023-09-21T14:48:10.808Z",
+            "tags": [],
+            "classTitle": "Apple_Man",
+            "points": {
+                "exterior": [
+                    [
+                        737,
+                        945
+                    ],
+                    [
+                        822,
+                        1032
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434969,
+            "classId": 11855361,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Tennis_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1069,
+                        33
+                    ],
+                    [
+                        1132,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434963,
+            "classId": 11855361,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Tennis_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1168,
+                        306
+                    ],
+                    [
+                        1236,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434970,
+            "classId": 11855361,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Tennis_Man",
+            "points": {
+                "exterior": [
+                    [
+                        904,
+                        581
+                    ],
+                    [
+                        968,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434972,
+            "classId": 11855361,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Tennis_Man",
+            "points": {
+                "exterior": [
+                    [
+                        1147,
+                        542
+                    ],
+                    [
+                        1213,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418434960,
+            "classId": 11855361,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "tags": [],
+            "classTitle": "Tennis_Man",
+            "points": {
+                "exterior": [
+                    [
+                        961,
+                        887
+                    ],
+                    [
+                        1027,
+                        954
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437014,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1683,
+                        674
+                    ],
+                    [
+                        1722,
+                        716
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437013,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1792,
+                        260
+                    ],
+                    [
+                        1875,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437012,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        505,
+                        21
+                    ],
+                    [
+                        567,
+                        85
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437011,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        830
+                    ],
+                    [
+                        129,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437010,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Tennis_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1067,
+                        33
+                    ],
+                    [
+                        1132,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437009,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1602,
+                        496
+                    ],
+                    [
+                        1677,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437008,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        897,
+                        940
+                    ],
+                    [
+                        952,
+                        1007
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437007,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Tennis_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        963,
+                        887
+                    ],
+                    [
+                        1026,
+                        954
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437006,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1054,
+                        877
+                    ],
+                    [
+                        1122,
+                        943
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437005,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1173,
+                        895
+                    ],
+                    [
+                        1245,
+                        960
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437004,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        694
+                    ],
+                    [
+                        511,
+                        766
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437003,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1218,
+                        849
+                    ],
+                    [
+                        1282,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437002,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Tennis_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        904,
+                        581
+                    ],
+                    [
+                        966,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437001,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        943,
+                        326
+                    ],
+                    [
+                        1017,
+                        394
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418437000,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1306,
+                        181
+                    ],
+                    [
+                        1386,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436999,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        933,
+                        149
+                    ],
+                    [
+                        1009,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436998,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        496
+                    ],
+                    [
+                        850,
+                        564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436997,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Tennis_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1172,
+                        304
+                    ],
+                    [
+                        1238,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436996,
+            "classId": 11855360,
+            "description": "8",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1261,
+                        147
+                    ],
+                    [
+                        1344,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436995,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1832,
+                        89
+                    ],
+                    [
+                        1919,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436994,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1577,
+                        108
+                    ],
+                    [
+                        1648,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436993,
+            "classId": 11855360,
+            "description": "7",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1242,
+                        12
+                    ],
+                    [
+                        1318,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436992,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1575,
+                        569
+                    ],
+                    [
+                        1647,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436991,
+            "classId": 11855360,
+            "description": "17",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        762,
+                        701
+                    ],
+                    [
+                        841,
+                        787
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436990,
+            "classId": 11855360,
+            "description": "11",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        941,
+                        53
+                    ],
+                    [
+                        1021,
+                        138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436989,
+            "classId": 11855360,
+            "description": "9",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1240,
+                        415
+                    ],
+                    [
+                        1322,
+                        493
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436988,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Tennis_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1149,
+                        542
+                    ],
+                    [
+                        1212,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436987,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        519,
+                        517
+                    ],
+                    [
+                        587,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436986,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        718
+                    ],
+                    [
+                        274,
+                        827
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436985,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1046,
+                        801
+                    ],
+                    [
+                        1123,
+                        871
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436984,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        487,
+                        656
+                    ],
+                    [
+                        566,
+                        736
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436983,
+            "classId": 11855360,
+            "description": "10",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1292,
+                        479
+                    ],
+                    [
+                        1370,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436982,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        951
+                    ],
+                    [
+                        383,
+                        1026
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436981,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1636,
+                        904
+                    ],
+                    [
+                        1717,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436980,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1511,
+                        709
+                    ],
+                    [
+                        1593,
+                        778
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436979,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        177
+                    ],
+                    [
+                        159,
+                        262
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436978,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        269,
+                        669
+                    ],
+                    [
+                        337,
+                        739
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436977,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        223
+                    ],
+                    [
+                        224,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436976,
+            "classId": 11855360,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1030,
+                        223
+                    ],
+                    [
+                        1101,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436975,
+            "classId": 11855360,
+            "description": "16",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        701,
+                        415
+                    ],
+                    [
+                        778,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436974,
+            "classId": 11855360,
+            "description": "12",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        1124,
+                        399
+                    ],
+                    [
+                        1203,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436973,
+            "classId": 11855360,
+            "description": "18",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        738,
+                        945
+                    ],
+                    [
+                        819,
+                        1031
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436972,
+            "classId": 11855360,
+            "description": "14",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        233
+                    ],
+                    [
+                        791,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418436971,
+            "classId": 11855360,
+            "description": "15",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "tags": [],
+            "classTitle": "Apple_Y5L",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        319
+                    ],
+                    [
+                        713,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438944,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        936,
+                        162
+                    ],
+                    [
+                        1005,
+                        229
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438943,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Tennis_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1151,
+                        544
+                    ],
+                    [
+                        1212,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438942,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1054,
+                        877
+                    ],
+                    [
+                        1121,
+                        942
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438941,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Tennis_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        964,
+                        890
+                    ],
+                    [
+                        1026,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438940,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Tennis_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        583
+                    ],
+                    [
+                        966,
+                        642
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438939,
+            "classId": 11855359,
+            "description": "17",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        763,
+                        712
+                    ],
+                    [
+                        838,
+                        785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438938,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        448,
+                        696
+                    ],
+                    [
+                        510,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438937,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1835,
+                        91
+                    ],
+                    [
+                        1919,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438936,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        947,
+                        329
+                    ],
+                    [
+                        1013,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438935,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1468,
+                        0
+                    ],
+                    [
+                        1536,
+                        45
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438934,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1580,
+                        108
+                    ],
+                    [
+                        1650,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438933,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1595,
+                        499
+                    ],
+                    [
+                        1675,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438932,
+            "classId": 11855359,
+            "description": "10",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1294,
+                        480
+                    ],
+                    [
+                        1370,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438931,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Tennis_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1071,
+                        35
+                    ],
+                    [
+                        1132,
+                        104
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438930,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Tennis_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1175,
+                        305
+                    ],
+                    [
+                        1237,
+                        371
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438929,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        720
+                    ],
+                    [
+                        270,
+                        792
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438928,
+            "classId": 11855359,
+            "description": "9",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1241,
+                        416
+                    ],
+                    [
+                        1322,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438927,
+            "classId": 11855359,
+            "description": "16",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        701,
+                        417
+                    ],
+                    [
+                        776,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438926,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1049,
+                        803
+                    ],
+                    [
+                        1121,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438925,
+            "classId": 11855359,
+            "description": "15",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        320
+                    ],
+                    [
+                        713,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438924,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        657
+                    ],
+                    [
+                        567,
+                        734
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438923,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1032,
+                        226
+                    ],
+                    [
+                        1098,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438922,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        180
+                    ],
+                    [
+                        155,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438921,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        517
+                    ],
+                    [
+                        588,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438920,
+            "classId": 11855359,
+            "description": "11",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        942,
+                        54
+                    ],
+                    [
+                        1018,
+                        135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438919,
+            "classId": 11855359,
+            "description": "8",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1262,
+                        150
+                    ],
+                    [
+                        1344,
+                        235
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438918,
+            "classId": 11855359,
+            "description": "7",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1244,
+                        14
+                    ],
+                    [
+                        1316,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438917,
+            "classId": 11855359,
+            "description": "12",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        1124,
+                        402
+                    ],
+                    [
+                        1202,
+                        476
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438916,
+            "classId": 11855359,
+            "description": "14",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        718,
+                        236
+                    ],
+                    [
+                        788,
+                        308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1418438915,
+            "classId": 11855359,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "tags": [],
+            "classTitle": "Apple_ourY5L",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        226
+                    ],
+                    [
+                        221,
+                        295
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
