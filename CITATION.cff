@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repo, please cite it as below."
 authors:
-   - family-names: "Bortolotti"
+  - family-names: "Bortolotti"
     given-names: "Gianmarco"
     orcid: "https://orcid.org/0000-0003-2322-8561" 
   - family-names: "Piani"
@@ -9,11 +9,11 @@ authors:
     orcid: "https://orcid.org/0000-0001-7087-3761"
   - family-names: "Gullino"
     given-names: "Michele"
-    orcid: 
+    orcid: "https://orcid.org/0000-0002-8853-4247"
   - family-names: "Franceschini"
     given-names: "Cristiano"
-    orcid: 
- - family-names: "Mengoli"
+    orcid:
+  - family-names: "Mengoli"
     given-names: "Dario"
     orcid: "https://orcid.org/0000-0002-6131-8026"
   - family-names: "Manfrini"
