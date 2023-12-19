@@ -3,7 +3,7 @@
  The dataset contains images and reference caliper ground truth data.
  Data were collected during 2022 season in a 3 years old apple orchard trained as 'Planar Cordon' (bidimensional training system).
  12 fruit on two trees (24 fruit in total) were monitored for their fruit size along the whole season.
- RGB-D pictures, manually labelled for the monitored fruit, were taken on 17 dates from a fruit size of  40mm approx. to >80mm approx
+ RGB-D pictures, manually labelled for the monitored fruit, were taken on 17 different dates from a fruit size of  40mm approx. to >80mm approx
 
  **For more detailed info check the 'data_exploration' Jupyter notebook in the notebook folder**
  
