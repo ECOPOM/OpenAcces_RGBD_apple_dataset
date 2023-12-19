@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+authors:
+   - family-names: "Bortolotti"
+    given-names: "Gianmarco"
+    orcid: "https://orcid.org/0000-0003-2322-8561" 
+  - family-names: "Piani"
+    given-names: "Mirko"
+    orcid: "https://orcid.org/0000-0001-7087-3761"
+  - family-names: "Gullino"
+    given-names: "Michele"
+    orcid: 
+  - family-names: "Franceschini"
+    given-names: "Cristiano"
+    orcid: 
+ - family-names: "Mengoli"
+    given-names: "Dario"
+    orcid: "https://orcid.org/0000-0002-6131-8026"
+  - family-names: "Manfrini"
+    given-names: "Luigi"
+    orcid: "https://orcid.org/0000-0003-4776-0608"
+title: "OpenAcces_RGBD_apple_dataset"
+version: 1.1.0
+doi: 
+date-released: 2023-12-10
+url: "https://github.com/ECOPOM/OpenAcces_RGBD_apple_dataset"
