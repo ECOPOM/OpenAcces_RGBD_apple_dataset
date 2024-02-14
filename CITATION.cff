@@ -1,4 +1,4 @@
-cff-version: 1.0.0
+cff-version: 1.2.0
 message: "If you use this repo, please cite it as below."
 authors:
   - family-names: "Bortolotti"
@@ -24,4 +24,3 @@ version:
 doi:  # Replace with the actual DOI or leave empty if not applicable
 date-released: 2023-12-10
 url: "https://github.com/ECOPOM/OpenAcces_RGBD_apple_dataset"
-type: "data"
