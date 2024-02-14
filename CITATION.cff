@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this repo, please cite it as below."
 authors:
   - family-names: "Bortolotti"
@@ -12,7 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-8853-4247"
   - family-names: "Franceschini"
     given-names: "Cristiano"
-    orcid:
+    orcid: # Replace with the correct ORCID
   - family-names: "Mengoli"
     given-names: "Dario"
     orcid: "https://orcid.org/0000-0002-6131-8026"
@@ -20,8 +20,8 @@ authors:
     given-names: "Luigi"
     orcid: "https://orcid.org/0000-0003-4776-0608"
 title: "OpenAcces_RGBD_apple_dataset"
-version:
-doi: 
+version: 
+doi:  # Replace with the actual DOI or leave empty if not applicable
 date-released: 2023-12-10
 url: "https://github.com/ECOPOM/OpenAcces_RGBD_apple_dataset"
 type: "dataset"
