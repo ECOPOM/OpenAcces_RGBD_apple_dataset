@@ -12,7 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-8853-4247"
   - family-names: "Franceschini"
     given-names: "Cristiano"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-4111-6400"
   - family-names: "Mengoli"
     given-names: "Dario"
     orcid: "https://orcid.org/0000-0002-6131-8026"
@@ -20,7 +20,7 @@ authors:
     given-names: "Luigi"
     orcid: "https://orcid.org/0000-0003-4776-0608"
 title: "OpenAcces_RGBD_apple_dataset"
-version: 1.0.0
+version: v1.0.0
 doi: "https://doi.org/10.5281/zenodo.10656416"
 date-released: 2023-12-10
 url: "https://github.com/ECOPOM/OpenAcces_RGBD_apple_dataset"
