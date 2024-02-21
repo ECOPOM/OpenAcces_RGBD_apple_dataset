@@ -1,9 +1,9 @@
 # OpenAcces_RGBD_apple_dataset
 \
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10687504.svg)](https://doi.org/10.5281/zenodo.10687504)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10687503.svg)](https://doi.org/10.5281/zenodo.10687503)
 
 To **cite this dataset**, refere to it as:
-> Bortolotti, G., Piani, M., Gullino, M., Franceschini, C., Mengoli, D., & Manfrini, L. (2024). OpenAcces_RGBD_apple_dataset (Version 1.1.0) [Data set]. https://doi.org/10.5281/zenodo.10687504
+> Bortolotti, G., Piani, M., Gullino, M., Franceschini, C., Mengoli, D., & Manfrini, L. (2024). OpenAcces_RGBD_apple_dataset [Data set]. https://doi.org/10.5281/zenodo.10687503
 
 \
  Intel realsense d435i open access dataset of seasonal growth of fuji apple. 
