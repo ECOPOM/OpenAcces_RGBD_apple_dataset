@@ -1,4 +1,11 @@
 # OpenAcces_RGBD_apple_dataset
+\
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10687504.svg)](https://doi.org/10.5281/zenodo.10687504)
+
+To **cite this dataset**, refere to it as:
+> Bortolotti, G., Piani, M., Gullino, M., Franceschini, C., Mengoli, D., & Manfrini, L. (2024). OpenAcces_RGBD_apple_dataset (Version 1.1.0) [Data set]. https://doi.org/10.5281/zenodo.10687504
+
+\
  Intel realsense d435i open access dataset of seasonal growth of fuji apple. 
  The dataset contains images and reference caliper ground truth data.
  Data were collected during 2022 season in a 3 years old apple orchard trained as 'Planar Cordon' (bidimensional training system).
