@@ -18,4 +18,13 @@ To **cite this dataset**, refere to it as:
  - 67 Apple fruit sizing through low-cost depth camera and neural network application - https://doi.org/10.3920/978-90-8686-947-3_67
  - A Computer Vision Approach for Estimating Fruit Growth Rate in Orchards - IN PRESS in Acta Horticulturae as conference proceedings of ISHS PMOV conference
 
+___
+# Dataset Format Conversion
+## Supervisely format
+
+Open a terminal and launch the conversion to the format (i.e., `sly` or `yolo`) specified with the `--format` or `-f` argument (`dafult` is `sly`).
+```
+cd OpenAcces_RGBD_apple_dataset
+python3 src/converter.py --format SLY -d dataset/
+```
 
