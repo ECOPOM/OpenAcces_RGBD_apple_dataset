@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "Bortolotti, G., Piani, M., Gullino, M., Franceschini, C., Mengoli, D., & Manfrini, L. (2024). OpenAcces_RGBD_apple_dataset (Version 1.2.0)",
     "tags": [],
     "size": {
         "height": 1080,
@@ -11,11 +11,11 @@
             "classId": 11855358,
             "description": "35",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153538",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -35,11 +35,11 @@
             "classId": 11855358,
             "description": "36",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153548",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -59,11 +59,11 @@
             "classId": 11855358,
             "description": "37",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153555",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -83,11 +83,11 @@
             "classId": 11855358,
             "description": "38",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153562",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -107,11 +107,11 @@
             "classId": 11855358,
             "description": "39",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.807Z",
-            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2024-04-05T19:24:20.153569",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -131,11 +131,11 @@
             "classId": 11855358,
             "description": "40",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153575",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -155,11 +155,11 @@
             "classId": 11855358,
             "description": "42",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153582",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -179,11 +179,11 @@
             "classId": 11855358,
             "description": "43",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153588",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -201,13 +201,13 @@
         {
             "id": 1418434733,
             "classId": 11855361,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153595",
             "tags": [],
-            "classTitle": "Tennis_Man",
+            "classTitle": "TB_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -225,13 +225,13 @@
         {
             "id": 1418434721,
             "classId": 11855361,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153601",
             "tags": [],
-            "classTitle": "Tennis_Man",
+            "classTitle": "TB_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -249,13 +249,13 @@
         {
             "id": 1418435089,
             "classId": 11855361,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.807Z",
-            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2024-04-05T19:24:20.153608",
             "tags": [],
-            "classTitle": "Tennis_Man",
+            "classTitle": "TB_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -273,13 +273,13 @@
         {
             "id": 1418435095,
             "classId": 11855361,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.807Z",
-            "updatedAt": "2023-09-21T14:48:10.807Z",
+            "updatedAt": "2024-04-05T19:24:20.153615",
             "tags": [],
-            "classTitle": "Tennis_Man",
+            "classTitle": "TB_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -299,11 +299,11 @@
             "classId": 11855358,
             "description": "34",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Manually annotated",
             "createdAt": "2023-09-21T14:48:10.806Z",
-            "updatedAt": "2023-09-21T14:48:10.806Z",
+            "updatedAt": "2024-04-05T19:24:20.153622",
             "tags": [],
-            "classTitle": "Apple_Man",
+            "classTitle": "apple_manual_annot",
             "points": {
                 "exterior": [
                     [
@@ -323,11 +323,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153628",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -347,11 +347,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153634",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -371,11 +371,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153640",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -395,11 +395,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153646",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -419,11 +419,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153652",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -443,11 +443,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153658",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -465,13 +465,13 @@
         {
             "id": 1418436447,
             "classId": 11855360,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153664",
             "tags": [],
-            "classTitle": "Tennis_Y5L",
+            "classTitle": "TB_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -491,11 +491,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153671",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -513,13 +513,13 @@
         {
             "id": 1418436445,
             "classId": 11855360,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153677",
             "tags": [],
-            "classTitle": "Tennis_Y5L",
+            "classTitle": "TB_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -539,11 +539,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153683",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -563,11 +563,11 @@
             "classId": 11855360,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153689",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -587,11 +587,11 @@
             "classId": 11855360,
             "description": "34",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153696",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -609,13 +609,13 @@
         {
             "id": 1418436441,
             "classId": 11855360,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153702",
             "tags": [],
-            "classTitle": "Tennis_Y5L",
+            "classTitle": "TB_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -635,11 +635,11 @@
             "classId": 11855360,
             "description": "38",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153708",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -659,11 +659,11 @@
             "classId": 11855360,
             "description": "43",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153715",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -683,11 +683,11 @@
             "classId": 11855360,
             "description": "37",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153721",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -707,11 +707,11 @@
             "classId": 11855360,
             "description": "42",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153728",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -731,11 +731,11 @@
             "classId": 11855360,
             "description": "40",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153734",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -755,11 +755,11 @@
             "classId": 11855360,
             "description": "35",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153740",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -779,11 +779,11 @@
             "classId": 11855360,
             "description": "39",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153747",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -803,11 +803,11 @@
             "classId": 11855360,
             "description": "36",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153753",
             "tags": [],
-            "classTitle": "Apple_Y5L",
+            "classTitle": "apple_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -825,13 +825,13 @@
         {
             "id": 1418436432,
             "classId": 11855360,
-            "description": "",
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l standard model from ultralytics",
             "createdAt": "2023-09-21T14:49:02.715Z",
-            "updatedAt": "2023-09-21T14:49:02.715Z",
+            "updatedAt": "2024-04-05T19:24:20.153759",
             "tags": [],
-            "classTitle": "Tennis_Y5L",
+            "classTitle": "TB_Y5L_std_bbox",
             "points": {
                 "exterior": [
                     [
@@ -851,11 +851,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153766",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -875,11 +875,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153772",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -899,11 +899,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153779",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -923,11 +923,11 @@
             "classId": 11855359,
             "description": "34",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153785",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -947,11 +947,11 @@
             "classId": 11855359,
             "description": "43",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153792",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -971,11 +971,11 @@
             "classId": 11855359,
             "description": "37",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153798",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -995,11 +995,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153804",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1019,11 +1019,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153811",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1043,11 +1043,11 @@
             "classId": 11855359,
             "description": "39",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153817",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1064,14 +1064,14 @@
         },
         {
             "id": 1418438598,
-            "classId": 11855359,
-            "description": "",
+            "classId": 11280287,
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153823",
             "tags": [],
-            "classTitle": "Tennis_ourY5L",
+            "classTitle": "TB_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1091,11 +1091,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153830",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1115,11 +1115,11 @@
             "classId": 11855359,
             "description": "",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153836",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1136,14 +1136,14 @@
         },
         {
             "id": 1418438595,
-            "classId": 11855359,
-            "description": "",
+            "classId": 11280287,
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153843",
             "tags": [],
-            "classTitle": "Tennis_ourY5L",
+            "classTitle": "TB_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1163,11 +1163,11 @@
             "classId": 11855359,
             "description": "35",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153850",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1184,14 +1184,14 @@
         },
         {
             "id": 1418438593,
-            "classId": 11855359,
-            "description": "",
+            "classId": 11280287,
+            "description": "TB",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153856",
             "tags": [],
-            "classTitle": "Tennis_ourY5L",
+            "classTitle": "TB_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1211,11 +1211,11 @@
             "classId": 11855359,
             "description": "42",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153863",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1235,11 +1235,11 @@
             "classId": 11855359,
             "description": "38",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153870",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1259,11 +1259,11 @@
             "classId": 11855359,
             "description": "40",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153876",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [
@@ -1283,11 +1283,11 @@
             "classId": 11855359,
             "description": "36",
             "geometryType": "rectangle",
-            "labelerLogin": "Gianmy12",
+            "labelerLogin": "Item annotated with a YOLOv5l model from ultralytics trained on a custom dataset",
             "createdAt": "2023-09-21T14:49:32.385Z",
-            "updatedAt": "2023-09-21T14:49:32.385Z",
+            "updatedAt": "2024-04-05T19:24:20.153883",
             "tags": [],
-            "classTitle": "Apple_ourY5L",
+            "classTitle": "apple_Y5L_trained_bbox",
             "points": {
                 "exterior": [
                     [

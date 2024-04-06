@@ -18,13 +18,24 @@ To **cite this dataset**, refere to it as:
  - 67 Apple fruit sizing through low-cost depth camera and neural network application - https://doi.org/10.3920/978-90-8686-947-3_67
  - A Computer Vision Approach for Estimating Fruit Growth Rate in Orchards - IN PRESS in Acta Horticulturae as conference proceedings of ISHS PMOV conference
 
-___
-# Dataset Format Conversion
-## Supervisely format
+<br>
 
-Open a terminal and launch the conversion to the format (i.e., `sly` or `yolo`) specified with the `--format` or `-f` argument (`dafult` is `sly`).
+___
+# Dataset enabled Format Conversions
+### Supervisely format
+
+
+
+|Conversion argument | short | description |
+|---|---|---|
+|`--dir`|`-d`| filepath to the directory to convert in format (default=`./dataset` ).|
+|`--format`|`-f`| desired format (i.e.,`SLY`). In future will be added also `YOLO-det` (default=`SLY` ). |
+|`--inplace`|`-ip`| use it to convert the dataset within the `--dir` folder. As default, when not calling the argument, it is set to `False` and converts the dataset within a newly created folder. |
+
+Open a terminal and launch the conversion to the format specified with the `-f` argument.
 ```
 cd OpenAcces_RGBD_apple_dataset
-python3 src/converter.py --format SLY -d dataset/
+
+python3 src/converter.py --format SLY
 ```
 

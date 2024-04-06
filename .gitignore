@@ -1,9 +1,9 @@
 venv/
 .venv/
 TODOs.md
-dataset_SLY/
-dataset_YOLO/
-dataset_modified/
+dataset_*/
+dataset_modified*/
+notebook/data_conversion.ipynb
 
 
 # Byte-compiled / optimized / DLL files
