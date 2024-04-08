@@ -1,0 +1,987 @@
+labels_count: {}
+17/06/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 14
+      nan: 2
+    apple_Y5L_std_bbox:
+      valid: 14
+      nan: 2
+    apple_Y5L_trained_bbox:
+      valid: 11
+      nan: 2
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 12
+      nan: 3
+    apple_Y5L_std_bbox:
+      valid: 12
+      nan: 3
+    apple_Y5L_trained_bbox:
+      valid: 12
+      nan: 2
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 21
+      nan: 3
+    apple_Y5L_std_bbox:
+      valid: 21
+      nan: 3
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 3
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+20/06/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 7
+      nan: 8
+    apple_Y5L_std_bbox:
+      valid: 7
+      nan: 8
+    apple_Y5L_trained_bbox:
+      valid: 7
+      nan: 8
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 8
+      nan: 7
+    apple_Y5L_std_bbox:
+      valid: 8
+      nan: 7
+    apple_Y5L_trained_bbox:
+      valid: 7
+      nan: 6
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 12
+      nan: 12
+    apple_Y5L_std_bbox:
+      valid: 10
+      nan: 12
+    apple_Y5L_trained_bbox:
+      valid: 7
+      nan: 9
+    TB_manual_annot:
+      valid: 0
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 0
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 0
+      nan: 0
+23/06/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 12
+      nan: 3
+    apple_Y5L_std_bbox:
+      valid: 12
+      nan: 3
+    apple_Y5L_trained_bbox:
+      valid: 12
+      nan: 3
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 13
+      nan: 2
+    apple_Y5L_std_bbox:
+      valid: 13
+      nan: 2
+    apple_Y5L_trained_bbox:
+      valid: 13
+      nan: 2
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 20
+      nan: 4
+    apple_Y5L_std_bbox:
+      valid: 20
+      nan: 4
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 4
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+30/06/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 13
+      nan: 2
+    apple_Y5L_std_bbox:
+      valid: 13
+      nan: 2
+    apple_Y5L_trained_bbox:
+      valid: 12
+      nan: 2
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 13
+      nan: 2
+    apple_Y5L_std_bbox:
+      valid: 13
+      nan: 2
+    apple_Y5L_trained_bbox:
+      valid: 11
+      nan: 2
+    TB_manual_annot:
+      valid: 8
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 8
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 6
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 21
+      nan: 3
+    apple_Y5L_std_bbox:
+      valid: 20
+      nan: 2
+    apple_Y5L_trained_bbox:
+      valid: 19
+      nan: 3
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+07/07/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 8
+      nan: 6
+    apple_Y5L_std_bbox:
+      valid: 8
+      nan: 6
+    apple_Y5L_trained_bbox:
+      valid: 8
+      nan: 6
+    TB_manual_annot:
+      valid: 8
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 8
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 10
+      nan: 5
+    apple_Y5L_std_bbox:
+      valid: 11
+      nan: 5
+    apple_Y5L_trained_bbox:
+      valid: 9
+      nan: 4
+    TB_manual_annot:
+      valid: 7
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 7
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 7
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 15
+      nan: 7
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 8
+    apple_Y5L_trained_bbox:
+      valid: 12
+      nan: 7
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+15/07/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 6
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 6
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 6
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 13
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 13
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 12
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 20
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+20/07/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 6
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 6
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 6
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 7
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 7
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 6
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 24
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 22
+      nan: 0
+    TB_manual_annot:
+      valid: 8
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 8
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 6
+      nan: 0
+01/08/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 15
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 15
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 0
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 22
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 24
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 22
+      nan: 0
+    TB_manual_annot:
+      valid: 11
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+11/08/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 17
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 17
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 17
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 14
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 14
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 14
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 24
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 21
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+24/08/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 14
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 14
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 14
+      nan: 0
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 24
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 23
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+30/08/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 13
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 8
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 14
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 12
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 14
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 23
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 7
+      nan: 0
+07/09/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 24
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 24
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 24
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+16/09/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 17
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 22
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 20
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+21/09/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 15
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 15
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 7
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 9
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 24
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 23
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+28/09/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 24
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 24
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 24
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0
+03/10/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 16
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 15
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 15
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 23
+      nan: 1
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 1
+    apple_Y5L_trained_bbox:
+      valid: 22
+      nan: 1
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+12/10/2022:
+  HIGH:
+    apple_manual_annot:
+      valid: 16
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 5
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 16
+      nan: 0
+    TB_manual_annot:
+      valid: 9
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 8
+      nan: 0
+  LOW:
+    apple_manual_annot:
+      valid: 15
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 2
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 15
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 10
+      nan: 0
+  FULL_TREE:
+    apple_manual_annot:
+      valid: 24
+      nan: 0
+    apple_Y5L_std_bbox:
+      valid: 23
+      nan: 0
+    apple_Y5L_trained_bbox:
+      valid: 21
+      nan: 0
+    TB_manual_annot:
+      valid: 10
+      nan: 0
+    TB_Y5L_std_bbox:
+      valid: 10
+      nan: 0
+    TB_Y5L_trained_bbox:
+      valid: 9
+      nan: 0

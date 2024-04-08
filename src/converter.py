@@ -7,6 +7,7 @@ import random
 import argparse
 import numpy as np
 import pandas as pd
+from datetime import datetime
 
 
 class DatasetConverter:
@@ -15,9 +16,13 @@ class DatasetConverter:
         argparser.add_argument('--format', '-f', help='Specify the conversion format', default='sly')
         argparser.add_argument('--dir', '-d', help='Specify the directory of the dataset to convert', default=os.path.join(os.getcwd(), 'dataset'))
         argparser.add_argument('--inplace', '-ip', help='Overwrite the dataset or convert it into another folder', action='store_true')
+        argparser.add_argument('--include-depth', '-depth', help='Include depth files in the format conversion', action='store_true')
+        argparser.add_argument('--separator', '-sep', help='Specify the separator to concat image information during renaming', default='#')
 
         # Parse command-line arguments
         args = argparser.parse_args()
+
+        print(f'Specified arguments {[f"{arg}: {getattr(args, arg)}" for arg in vars(args)]}')
 
         # ensure directory being OpenAcces_RGBD_apple_dataset
         if os.getcwd().endswith(('src')):
@@ -34,8 +39,6 @@ class DatasetConverter:
         else:
             self.dir = os.path.join('', args.dir)
         
-        print(self.dir)
-
         if bool(args.inplace) == True:
                 response = ''
                 while response.lower() not in ['y', 'n']:
@@ -77,7 +80,8 @@ class DatasetConverter:
                             if file.endswith('.png'):
                                 fn = os.path.join(self.dir, f'{cam_obj_distance}/{point_of_view}/{date}/{file}') 
                                 # modify the name because when importing in sypervisely files `P*.*` will be overwritten
-                                new_fn = os.path.join(self.img_dir, f'{date}#{cam_obj_distance}#{point_of_view}#{file}')
+                                
+                                new_fn = os.path.join(self.img_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file}')
                               
                                 # clone file into proper folder
                                 shutil.copyfile(fn, new_fn)
@@ -85,13 +89,40 @@ class DatasetConverter:
                                 if args.inplace:
                                     os.remove(fn)
                             
+                            elif file.endswith('.npy'):
+                                if bool(args.include_depth) == True:
+                                    fn = os.path.join(self.dir, f'{cam_obj_distance}/{point_of_view}/{date}/{file}') 
+                                    # modify the name because when importing in sypervisely files `P*.*` will be overwritten
+                                    new_fn = os.path.join(self.img_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file}')
+                                
+                                    # clone file into proper folder
+                                    shutil.copyfile(fn, new_fn)
+
+                                    if args.inplace:
+                                        os.remove(fn)
+
+                            
                             elif file.endswith('.json'):
                                 fn = os.path.join(self.dir, f'{cam_obj_distance}/{point_of_view}/{date}/{file}') 
                                 # modify the name because when importing in sypervisely files `P*.*` will be overwritten
-                                new_fn = os.path.join(self.annotation_dir, f'{date}#{cam_obj_distance}#{point_of_view}#{file[:-5]}.png{file[-5:]}')
+                                new_fn = os.path.join(self.annotation_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file[:-5]}.png{file[-5:]}')
 
-                                # clone file into proper folder
-                                shutil.copyfile(fn, new_fn)
+                                # ensure tag is not empty - otherwise SLY gives importing error
+                                with open(fn) as json_file:
+                                    annot = json.load(json_file)
+                                
+                                if len(annot['tags']) == 0:
+                                    annot['tags'] = [{"name" : "train",
+                                                    "value": None,
+                                                    "labelerLogin": "filled_during_conversion_to_SLY_format",
+                                                    "createdAt": datetime.now().isoformat(),  # ISO 8601,
+                                                    "updatedAt": datetime.now().isoformat()}]  # ISO 8601
+                                else:
+                                    for i in range(0, len(annot['tags'])):
+                                        annot['tags'][i]['name'] = 'train'
+
+                                with open(new_fn, 'w') as new_fn:
+                                    json.dump(annot, new_fn, indent=len(annot))
 
                                 # read annotation file to compile the meta.json
                                 with open(fn) as json_file:
@@ -171,7 +202,7 @@ class DatasetConverter:
                                 self.annotation_dir = os.path.join(self.conversion_dir, f'labels/{file_use}')
 
                                 # init the label.txt and modify the name, otherwise files `P*.*` will be overwritten
-                                new_fn = os.path.join(self.annotation_dir, f'{date}#{cam_obj_distance}#{point_of_view}#{file.replace("json", "txt")}')
+                                new_fn = os.path.join(self.annotation_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file.replace("json", "txt")}')
                                 txt = pd.DataFrame(columns=['cls', 'x', 'y', 'w', 'h'])
 
                                 # populate the label
@@ -217,16 +248,26 @@ class DatasetConverter:
                                 if args.inplace:
                                     os.remove(fn)
                                 
-                                # Process the related image with same use
+                                # Process the related color image with same use
                                 fn = os.path.join(self.dir, f'{cam_obj_distance}/{point_of_view}/{date}/{file.replace("json", "png")}') 
-                                # modify the name because when importing in sypervisely files `P*.*` will be overwritten
-                                new_fn = os.path.join(self.img_dir, f'{date}#{cam_obj_distance}#{point_of_view}#{file}')
+                                new_fn = os.path.join(self.img_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file.replace("json", "png")}')
                             
                                 # clone file into proper folder
                                 shutil.copyfile(fn, new_fn)
 
                                 if args.inplace:
                                     os.remove(fn)
+                                
+                                # Process depth image
+                                if bool(args.include_depth) == True:
+                                    fn = os.path.join(self.dir, f'{cam_obj_distance}/{point_of_view}/{date}/{file.replace("json", "npy")}') 
+                                    new_fn = os.path.join(self.img_dir, f'{date}{args.separator}{cam_obj_distance}{args.separator}{point_of_view}{args.separator}{file.replace("json", "npy")}')
+                                
+                                    # clone file into proper folder
+                                    shutil.copyfile(fn, new_fn)
+
+                                    if args.inplace:
+                                        os.remove(fn)
             
             # save dataset_yaml
             with open(os.path.join(self.conversion_dir, 'dataset.yaml'), 'w') as outfile:
