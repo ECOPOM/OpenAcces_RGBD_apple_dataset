@@ -85,7 +85,7 @@ Click [here](docs/data_description.md) to get a detailed description of data.
 ***Open_Access_RGBD_apple_dataset*** was developed specifically for the purpose of facilitating the development, testing and evaluation of fruit sizing algorithms which exploit RGB-D images. The dataset encompasses a wide range of lighting conditions, following most of the growth season of 24 Fuji apples distributed into two apple trees,from ~40 mm  size up to ~95 mm diameter. Consequently, this dataset presents an opportunity to develop RGB-D based sizing algorithms and evaluate their performances with the availability of caliper-measured ground truth data.
 
 **What do the objects that comprise the dataset represent?**\
-The dataset comprises labeled RGB-D images capturing the 2022 growth season of Fuji apples  (cv. Aztec) grown in Cadriano (Bologna, Italy) at the experimental farm of the University of Bologna (44.54824 °N, 11.41449 °E). The images, shot with an [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/) camera, depict two trees from different perspectives (e.g., top-of-the-canopy, bottom-of-the-canopy, full-canopy) and object-camera distances (e.g., 1.0 m, 1.5 m).\
+The dataset comprises labeled RGB-D images capturing the 2022 growth season of Fuji apples  (cv. Aztec) grown in Cadriano (Bologna, Italy) at the experimental farm of the University of Bologna (44.54824 °N, 11.41449 °E). The images, shot with an [Intel RealSense D435i](https://www.intelrealsense.com/depth-camera-d435i/) camera, depict two trees from different perspectives (e.g., top-of-the-canopy, bottom-of-the-canopy, full-canopy) and object-camera distances (e.g., 1.0 m, 1.5 m).
 
 | |
 |:---:|
