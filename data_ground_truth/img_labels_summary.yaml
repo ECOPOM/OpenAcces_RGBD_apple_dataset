@@ -1,4 +1,10 @@
-labels_count: {}
+labels_count:
+  apple_manual_annot: 928
+  apple_Y5L_std_bbox: 899
+  apple_Y5L_trained_bbox: 876
+  TB_manual_annot: 424
+  TB_Y5L_std_bbox: 419
+  TB_Y5L_trained_bbox: 387
 17/06/2022:
   HIGH:
     apple_manual_annot:

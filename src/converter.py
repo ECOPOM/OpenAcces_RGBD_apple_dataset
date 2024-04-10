@@ -1,4 +1,5 @@
 import os
+import ast
 import sys
 import yaml
 import json
@@ -13,27 +14,25 @@ from datetime import datetime
 class DatasetConverter:
     def __init__(self):
         argparser = argparse.ArgumentParser(description="Dataset Converter")
-        argparser.add_argument('--format', '-f', help='Specify the conversion format', default='sly')
+        argparser.add_argument('--format', '-f', help='Specify the conversion format: "sly" or "yolo-det"', default='sly')
         argparser.add_argument('--dir', '-d', help='Specify the directory of the dataset to convert', default=os.path.join(os.getcwd(), 'dataset'))
         argparser.add_argument('--inplace', '-ip', help='Overwrite the dataset or convert it into another folder', action='store_true')
         argparser.add_argument('--include-depth', '-depth', help='Include depth files in the format conversion', action='store_true')
         argparser.add_argument('--separator', '-sep', help='Specify the separator to concat image information during renaming', default='#')
+        argparser.add_argument('--export-class', '-c', help='List of classes to be exported\n0: "apple_manual_annot" , 1: "apple_Y5L_std_bbox", 2: "apple_Y5L_trained_bbox", 3: "TB_manual_annot", 4: "TB_Y5L_std_bbox", 5: "TB_Y5L_trained_bbox", 6: "all" (default=[6])', default='[6]')
 
         # Parse command-line arguments
         args = argparser.parse_args()
 
-        print(f'Specified arguments {[f"{arg}: {getattr(args, arg)}" for arg in vars(args)]}')
+        print(f'\nSpecified arguments {[f"{arg}: {getattr(args, arg)}" for arg in vars(args)]}')
 
         # ensure directory being OpenAcces_RGBD_apple_dataset
         if os.getcwd().endswith(('src')):
             os.chdir('..')
 
         #  Access the value of --format argument
-        if args.format:
-            print("Format specified:", args.format)
-        else:
-            print("No format specified")
-
+        print("\nFormat specified:", args.format)
+        
         if args.dir.endswith('/') or args.dir.endswith('\\'):
             self.dir = os.path.join('', args.dir[:-1])
         else:
@@ -55,7 +54,25 @@ class DatasetConverter:
         else:
             self.conversion_dir = os.path.join(os.getcwd(), f'{self.dir}_{args.format.upper()}')
 
-        print(f'Converted dataset is being saved to: {self.conversion_dir}')
+        print(f'\nConverted dataset is being saved to: {self.conversion_dir}')
+
+        self.export_class = {0: "apple_manual_annot" , 
+                             1: "apple_Y5L_std_bbox", 
+                             2: "apple_Y5L_trained_bbox", 
+                             3: "TB_manual_annot", 
+                             4: "TB_Y5L_std_bbox", 
+                             5: "TB_Y5L_trained_bbox", 
+                             6: "all" }
+        
+        export_class = ast.literal_eval(args.export_class)
+        if 6 not in export_class:
+            dict_class = self.export_class.copy()
+            for k in self.export_class.keys():
+                if k not in export_class:
+                    dict_class.pop(k)
+            # overwrite
+            self.export_class = dict_class
+        print(f'\nSelected classes are: {self.export_class}')
 
         # to host datset info
         self.unique_class_titles = []
@@ -121,6 +138,17 @@ class DatasetConverter:
                                     for i in range(0, len(annot['tags'])):
                                         annot['tags'][i]['name'] = 'train'
 
+                                annot_copy = annot.copy()
+                                for ind, obj in enumerate(annot['objects']):
+                                    # export selected classes
+                                    if obj['classTitle'] not in self.export_class.values():
+                                        annot_copy['objects'].pop(ind)
+                                    else:
+                                        print(obj['classTitle'])
+
+                                    # overwrite
+                                    annot = annot_copy
+
                                 with open(new_fn, 'w') as new_fn:
                                     json.dump(annot, new_fn, indent=len(annot))
 
@@ -170,8 +198,7 @@ class DatasetConverter:
                             'val': 'images/val',
                             'nc': 0,
                             'names' : {}}
-                        
-            
+
             # generate folders
             os.makedirs(os.path.join(self.conversion_dir, 'images/train'), exist_ok=True)
             os.makedirs(os.path.join(self.conversion_dir, 'images/val'), exist_ok=True)
@@ -207,40 +234,44 @@ class DatasetConverter:
 
                                 # populate the label
                                 for obj_index, obj in enumerate(annot['objects']):
-                                    # add firts class
-                                    if len(dataset_yaml['names']) == 0:
-                                        dataset_yaml['names'][len(dataset_yaml['names'])] = obj['classTitle']
-                                        dataset_yaml['nc'] += 1
-                                    # if class not in yaml, add it
-                                    if obj['classTitle'] not in  dataset_yaml['names'].values():
-                                        dataset_yaml['names'][len(dataset_yaml['names'])] = obj['classTitle']
-                                        dataset_yaml['nc'] += 1
-
-                                    self.unique_class_titles.append(obj['classTitle'])
-
-                                    # to normalized obj coords
-                                    W = annot['size']['width']
-                                    H = annot['size']['height']
-
-                                    # i need cls_index, x, y, w, h
-                                    x, y, w, h = 0, 0, 0, 0
-
-                                    # get class id
-                                    class_names= list(dataset_yaml['names'].values())
-                                    if str(obj['classTitle']) in class_names:
-                                        cls_id = np.array(class_names.index(obj['classTitle']), dtype='int')
                                     
-                                        # normalize coords
-                                        tl, br = obj['points']['exterior'][0], obj['points']['exterior'][1]
-                                        x = (tl[0] + (br[0] - tl[0]) / 2 ) / W
-                                        y = (tl[1] + (br[1] - tl[1]) / 2 ) / H
-                                        w = (br[0] - tl[0]) / W
-                                        h = (br[1] - tl[1]) / H
+                                    # export selected classes
+                                    if obj['classTitle'] in self.export_class.values():
+                                        # add firts class
+                                        if len(dataset_yaml['names']) == 0:
+                                            dataset_yaml['names'][len(dataset_yaml['names'])] = obj['classTitle']
+                                            dataset_yaml['nc'] += 1
+                                        # if class not in yaml, add it
+                                        if obj['classTitle'] not in  dataset_yaml['names'].values():
+                                            dataset_yaml['names'][len(dataset_yaml['names'])] = obj['classTitle']
+                                            dataset_yaml['nc'] += 1
 
-                                        # add data to the label
-                                        txt.loc[obj_index] = ([cls_id, x, y, w, h ])
+                                        self.unique_class_titles.append(obj['classTitle'])
 
-                                        self.unique_ref_obj.append(obj['description'])
+                                        # to normalized obj coords
+                                        W = annot['size']['width']
+                                        H = annot['size']['height']
+
+                                        # i need cls_index, x, y, w, h
+                                        x, y, w, h = 0, 0, 0, 0
+
+                                        # get class id
+                                        class_names= list(dataset_yaml['names'].values())
+                                        if str(obj['classTitle']) in class_names:
+                                            
+                                            cls_id = np.array(class_names.index(obj['classTitle']), dtype='int')
+                                        
+                                            # normalize coords
+                                            tl, br = obj['points']['exterior'][0], obj['points']['exterior'][1]
+                                            x = (tl[0] + (br[0] - tl[0]) / 2 ) / W
+                                            y = (tl[1] + (br[1] - tl[1]) / 2 ) / H
+                                            w = (br[0] - tl[0]) / W
+                                            h = (br[1] - tl[1]) / H
+
+                                            # add data to the label
+                                            txt.loc[obj_index] = ([cls_id, x, y, w, h ])
+
+                                            self.unique_ref_obj.append(obj['description'])
 
                                 # save label
                                 txt.to_csv(os.path.join(self.annotation_dir, new_fn), index=False, header=False)

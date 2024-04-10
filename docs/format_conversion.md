@@ -9,6 +9,8 @@ It is possible to convert the dataset structure into other formats, such as, sup
 |`--inplace`|`-ip`| use it to convert the dataset within the `--dir` folder. As default, when not calling the argument, it is set to `False` and converts the dataset within a newly created folder. |
 |`--include-depth`|`-depth`| use it to convert the dataset and include depth info. As default, when not calling the argument, it is set to `False` and does not consider depth files in the dataset format conversion. If called, the argument turns `True` and saves depth files within the same directory as color images. (default= `False`) |
 |`--separator`|`-sep`| Separator to concat image information during renaming (default=`#` ). |
+| `--export-class` | `-c` | List of classes to be exported in the converted dataset. 0: "apple_manual_annot" , 1: "apple_Y5L_std_bbox", 2: "apple_Y5L_trained_bbox", 3: "TB_manual_annot", 4: "TB_Y5L_std_bbox", 5: "TB_Y5L_trained_bbox", 6: "all" (default=[6] ) |
+
 
 
 ### Supervisely format
@@ -21,6 +23,7 @@ cd OpenAcces_RGBD_apple_dataset
 
 python3 src/converter.py --format sly  # to not consider depth data
 python3 src/converter.py --format sly -depth # to consider depth data
+python3 src/converter.py --format sly -c [0,3] # export only manual annotations
 
 ```
 The output of the following command would be the following:
@@ -52,7 +55,7 @@ cd OpenAcces_RGBD_apple_dataset
 
 python3 src/converter.py --format yolo-det  # to not consider depth data
 python3 src/converter.py --format yolo-det -depth # to consider depth data
-
+python3 src/converter.py --format yolo-det -c [0,3] # export only manual annotations
 ```
 The output of the following command would be the following:
 ```
