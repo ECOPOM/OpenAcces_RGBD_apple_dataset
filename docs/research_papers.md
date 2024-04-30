@@ -13,7 +13,7 @@
 
 ### "67. Apple fruit sizing through low-cost depth camera and neural network application"
 **Authors:** Bortolotti G.,  Gullino M., Piani M., Mengoli D., Manfrini L.\
-https://doi.org/10.3920/978-90-8686-947-3_67\
+https://doi.org/10.3920/978-90-8686-947-3_67 \
 **July 2023** - *European Conference on Precision Agriculture*
 
   > *Fruit size information through the season is an important parameter allowing growers to better manage the orchard. In this study, a Python based computer vision algorithm for sizing apples directly on-the-tree was developed. The system was made of a consumer-grade depth camera and tested at two distances and different timings through the season, in a Fuji apple orchard. The system exploited a YOLOv5 detection algorithm and a trigonometric approach based on depth information to size the fruits. Results showed potential field application even if a further system improvement to reduce the sizing error (RMSE <10 mm) need to be achieved.*
