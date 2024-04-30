@@ -95,15 +95,15 @@ The dataset comprises labeled RGB-D images capturing the 2022 growth season of F
 Trees are trained as "*planar cordons*", that is an innovative bi-dimensional training system that reduces fruit occlusions, while increasing light-interception and productivity. The narrow canopy and simple structure  of *planar cordon* trained trees have been proven to enhance orchard automation and computer vision systems ([Bortolotti, et. al 2021](10.1109/MetroAgriFor52389.2021.9628839)).\
 The dataset, besides apples, also features **tennis balls** to aid performance evaluation. Apples have non-uniforma shapes, which implies that the computer vision system could detect a different diameter than the reference one, resulting in an increase of the sizing error. On the other side, tennis balls are iso-diametric, unlike apples, allowing for a better assessment of the sizing performance when comparing detected diameters and their reference.
 
-**Is there a label or target associated with each instance?**
+**Is there a label or target associated with each instance?**\
 Manual labeling and association with the reference growth data of 24 fruits and tennis balls was done. Ground truth data were distinguished into:
-* [evaluation_ground_truth](data_ground_truth/evaluation_ground_truth_data.csv): Contains cleaned reference data, with the fruit size adhering to fruit growth assumptions such as continuous growth or steady-state conditions. This dataset serves as a reference for evaluating the performance of sizing algorithms.
-* [applicative_ground_truth](data_ground_truth/applicative_ground_truth_data.csv): ncludes raw reference data collected in the field from two reference trees, supplemented by data from other trees to enhance the statistical representativeness of field variability at each sampling date. This dataset accounts for human errors (e.g., selecting a different fruit reference diameter) and digital caliper errors, serving statistical purposes.
+* [evaluation_ground_truth](data_ground_truth/evaluation_ground_truth_data.csv): contains cleaned reference data, with the fruit size adhering to fruit growth assumptions such as continuous growth or steady-state conditions. This dataset serves as a reference for evaluating the performance of sizing algorithms.
+* [applicative_ground_truth](data_ground_truth/applicative_ground_truth_data.csv): includes raw reference data collected in the field from two reference trees, supplemented by data from other trees to enhance the statistical representativeness of field variability at each sampling date. This dataset accounts for human errors (e.g., selecting a different fruit reference diameter) and digital caliper errors, serving statistical purposes.
   
 In addition to manual annotations, image labels also include fruit detection bbox coordinates obtained through both a pre-trained YOLOv5l-det model from [ultralytics](https://www.ultralytics.com/) and a trained on a custom dataset YOLOv5l model. The detections are distinguished from manual annotation within the image labels as showed in the [data_exploration](notebook/data_exploration.ipynb).
 
 
-**What mechanisms or procedures were used to collect the data?**
+**What mechanisms or procedures were used to collect the data?**\
 The data was collected using a D435i Intel Realsense camera, which was mounted on a tripod. The data was recorded by streaming the camera's feed into bag format with [intel® RealSense™ Viewer](https://www.intelrealsense.com/sdk-2/) and then extracting the frames for each date. Specifically, the camera was connected via a USB 3.0 interface to a PC running Ubuntu 18.04.
 
 | | |

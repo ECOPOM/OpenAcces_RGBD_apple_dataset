@@ -274,7 +274,7 @@ class DatasetConverter:
                                             self.unique_ref_obj.append(obj['description'])
 
                                 # save label
-                                txt.to_csv(os.path.join(self.annotation_dir, new_fn), index=False, header=False)
+                                txt.to_csv(os.path.join(self.annotation_dir, new_fn), sep= ' ', index=False, header=False)
                                 
                                 if args.inplace:
                                     os.remove(fn)
